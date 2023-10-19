@@ -1,0 +1,133 @@
+body {
+  width: 1280px;
+  height: 720px;
+  margin: 0;
+}
+
+h3 {
+  width: 103px;
+  height: 22px;
+  color: #89c5cc;
+  padding: 65px 635px 110px 122px;
+  font: normal 700 22px /26px Inter;
+}
+
+h4 {
+  width: 51px;
+  font: normal 700 18px /26px Mulish;
+}
+
+h4 {
+  align-items: center;
+  width: 51px;
+}
+
+#home a {
+  position: absolute;
+  top: 65px;
+  right: 369px;
+  bottom: 122.33;
+  color: #7d7987;
+  text-decoration: none;
+}
+
+#home a:hover {
+  color: var(--1f1534-hyfen, #1f1534);
+  font-weight: bold;
+}
+
+#about a {
+  position: absolute;
+  top: 65px;
+  right: 272px;
+  bottom: 122.33;
+  color: #7d7987;
+  text-decoration: none;
+}
+
+#about a:hover {
+  color: var(--1f1534-hyfen, #1f1534);
+  font-weight: bold;
+}
+
+#training a {
+  position: absolute;
+  top: 65px;
+  right: 153px;
+  bottom: 122.33;
+  color: #7d7987;
+  text-decoration: none;
+}
+
+#training a:hover {
+  color: var(--1f1534-hyfen, #1f1534);
+  font-weight: bold;
+}
+
+h1 {
+  width: 489px;
+  color: #000;
+  font: normal 400 49px /56px Mulish;
+  padding: 0 672px 40px 119px;
+}
+
+h1 span {
+  color: #89c5cc;
+  font: normal 700 49px /56px Mulish;
+}
+
+p {
+  color: #7d7987;
+  width: 438px;
+  font: normal 400 14px /28px Open Sans;
+  padding: 0 723px 40px 119px;
+}
+
+p span {
+  color: #7d7987;
+  width: 438px;
+  font: normal 700 14px /28px Open Sans;
+}
+
+#whatsapp button {
+  display: inline-flex;
+  height: 56px;
+  width: 179px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: 0 982px 191px 119px;
+  border-radius: 4px;
+  background: #69b99d;
+  font: normal 500 16px / normal DM Sans;
+  color: #f9f9f9;
+  text-decoration: none;
+}
+
+#whatsapp img {
+  width: 24px;
+  height: 24px;
+  padding-left: 10px;
+}
+
+#whatsapp a {
+  color: #f9f9f9;
+}
+
+footer {
+  width: 592px;
+  color: #000;
+  text-align: center;
+  font: normal 400 14px /28px Open Sans;
+  position: absolute;
+  right: 344px;
+  top: 795px;
+}
+
+#fitness img {
+  position: absolute;
+  left: 710px;
+  top: 146px;
+  width: 417px;
+  height: 433.64px;
+}
